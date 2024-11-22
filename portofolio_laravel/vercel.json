@@ -18,7 +18,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://project-number-2.vercel.app",
+        "APP_URL": "https://portofolio-aditya-ridwan.vercel.app",
         "APP_KEY": "base64:oDhdBjSB5bGABvR4kTs4Wf2/a7Fru0ki7tKpBjH4mGg=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
