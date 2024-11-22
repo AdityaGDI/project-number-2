@@ -30,7 +30,7 @@
     <!-- Hero Section -->
     <section class="hero" id="home">
         <div class="hero-text">
-            <h1>Tobiichi Origami</h1>
+            <h1>Muhammad Aditya Ridwan</h1>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem nihil non inventore similique odit possimus. Beatae modi asperiores incidunt sint, suscipit culpa nam aliquid tempore quos at quisquam voluptatem aperiam!</p>
             <a href="#projects" class="cta">Project</a>
         </div>
